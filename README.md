@@ -29,7 +29,6 @@ Para iniciar os serviços:
 
 # Funcionamento
 Existem 4 servidores apache, três são para as versões do php: 5.5, 5.6 e 7.1. Outro servidor apache configurado na porta 80 e 443 do sistema hospedeiro. Este servidor possibilita a comunicação com os servidores de cada versão através do módulo proxy do apache.
-Os servidores php 
 
 # Configurações
 
@@ -42,12 +41,14 @@ Caso queira alterar este diretório modifique as variáveis **PATH_WWW_{VERSÃO}
 
 ## Diretório de configuração do servidor
 Cada versão do php é executado em um servidor apache, podendo ser configurado de acordo com a necessidade. 
+
 Os arquivos de configuração do servidor podem ser encontrados no diretório: 
 `/PHP{VERSÃO}/apache2/`
 
 ## Configurando Alias no servidor
 Para a utilização de alias, a configuração deve ser feita no servidor apache da versão do PHP correspondente ao sistema.
 Além disso é necessário indicar qual a versão do PHP será utilizada pelo sistema. 
+
 No arquivo */apache/apache2/sites-enabled/000-default.conf* existem alguns exemplos de como utilizar uma versão do php. Por exemplo:
 
 `ProxyPass /php55 ${HOSTPHP55}`
@@ -58,25 +59,30 @@ Neste exemplo o endereço http://localhost/php55 apontará para a raiz do servid
 `ProxyPass /sistemaA ${HOSTPHP55}/sistemaA`
 `ProxyPassReverse /sistemaA ${HOSTPHP55}/sistemaA`
 
-> Outra possibilidade seria a não necessidade de configurar os alias no servidor apache da versão do php por exemplo: 
-> `ProxyPass /sistemaA ${HOSTPHP55}/sistemaA/public`
-> `ProxyPassReverse /sistemaA ${HOSTPHP55}/sistemaA/public`
+Outra possibilidade seria a não necessidade de configurar os alias no servidor apache da versão do php por exemplo: 
+
+`ProxyPass /sistemaA ${HOSTPHP55}/sistemaA/public`
+`ProxyPassReverse /sistemaA ${HOSTPHP55}/sistemaA/public`
 
 ## Configurando SSL
-O ssl (https) já vem ativo em todas versões. A configuração do https no servidor apache principal se encontra no arquivo */apache/apache2/sites-enabled/000-default.conf* e nas versões contendo o PHP encontra-se na em */PHP{VERSÃO}/apache2/sites-enabled/default-ssl.conf* 
+O ssl (https) já vem ativo em todas versões. A configuração do https no servidor apache principal se encontra no arquivo */apache/apache2/sites-enabled/000-default.conf* e nas versões contendo o PHP encontra-se na em */PHP{VERSÃO}/apache2/sites-enabled/default-ssl.conf*
+
 Em */apache/apache2/sites-enabled/000-default.conf* um sistema pode ser adicionado utilizando a seguinte configuração:
+
 `ProxyPass /sistemaA ${HOSTPHP55_SSL}/sistemaA`
 `ProxyPassReverse /sistemaA ${HOSTPHP55_SSL}/sistemaA`
 
 ## Variáveis
 
 ### Variáveis de ambiente
+
 /install.sh
+
 > \$http_proxy = Se o proxy necessita usuário e senha. A mesma deve ser definida
 
 
-
 ### Variáveis de configuração
+
 /apache/apache2/envvars
 
 > \$HOSTPHP55 = Host para o docker localizar a versão do php internamente
