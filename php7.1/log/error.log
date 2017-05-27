@@ -1,0 +1,64 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:31:20.231486 2017] [mpm_prefork:notice] [pid 12] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:31:20.231523 2017] [core:notice] [pid 12] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:32:58.167465 2017] [mpm_prefork:notice] [pid 11] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:32:58.167519 2017] [core:notice] [pid 11] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:34:36.101810 2017] [ssl:warn] [pid 9] AH01906: ::1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:34:36.101913 2017] [ssl:warn] [pid 9] AH01909: ::1:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:34:36.224369 2017] [ssl:warn] [pid 9] AH01906: ::1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:34:36.224388 2017] [ssl:warn] [pid 9] AH01909: ::1:443:0 server certificate does NOT include an ID which matches the server name
+[Sun May 21 02:34:36.226450 2017] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:34:36.226464 2017] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:35:08.263560 2017] [core:info] [pid 11] [client 172.17.0.1:48404] AH00128: File does not exist: /var/www/html/favicon.ico
+[Sun May 21 02:35:08.342631 2017] [core:info] [pid 11] [client 172.17.0.1:48404] AH00128: File does not exist: /var/www/html/favicon.ico
+[Sun May 21 02:39:42.846244 2017] [ssl:warn] [pid 8] AH01906: ::1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:39:42.846314 2017] [ssl:warn] [pid 8] AH01909: ::1:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:39:42.869177 2017] [ssl:warn] [pid 8] AH01906: ::1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:39:42.869196 2017] [ssl:warn] [pid 8] AH01909: ::1:443:0 server certificate does NOT include an ID which matches the server name
+[Sun May 21 02:39:42.870674 2017] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:39:42.870699 2017] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:40:19.963006 2017] [ssl:warn] [pid 8] AH01906: ::1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:40:19.963068 2017] [ssl:warn] [pid 8] AH01909: ::1:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:40:19.987550 2017] [ssl:warn] [pid 8] AH01906: ::1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:40:19.987570 2017] [ssl:warn] [pid 8] AH01909: ::1:443:0 server certificate does NOT include an ID which matches the server name
+[Sun May 21 02:40:19.989240 2017] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:40:19.989258 2017] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:45:41.870386 2017] [ssl:warn] [pid 10] AH01906: ::1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:45:41.870448 2017] [ssl:warn] [pid 10] AH01909: ::1:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:45:41.893094 2017] [ssl:warn] [pid 10] AH01906: ::1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:45:41.893112 2017] [ssl:warn] [pid 10] AH01909: ::1:443:0 server certificate does NOT include an ID which matches the server name
+[Sun May 21 02:45:41.894607 2017] [mpm_prefork:notice] [pid 10] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:45:41.894631 2017] [core:notice] [pid 10] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon May 22 00:05:23.211806 2017] [ssl:warn] [pid 8] AH01906: ::1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 22 00:05:23.211871 2017] [ssl:warn] [pid 8] AH01909: ::1:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Mon May 22 00:05:23.235563 2017] [ssl:warn] [pid 8] AH01906: ::1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 22 00:05:23.235599 2017] [ssl:warn] [pid 8] AH01909: ::1:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 22 00:05:23.237164 2017] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon May 22 00:05:23.237193 2017] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon May 22 01:29:59.582427 2017] [ssl:warn] [pid 9] AH01906: ::1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 22 01:29:59.582498 2017] [ssl:warn] [pid 9] AH01909: ::1:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Mon May 22 01:29:59.724590 2017] [ssl:warn] [pid 9] AH01906: ::1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 22 01:29:59.724626 2017] [ssl:warn] [pid 9] AH01909: ::1:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 22 01:29:59.726648 2017] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon May 22 01:29:59.726674 2017] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat May 27 00:19:28.749076 2017] [ssl:warn] [pid 8] AH01906: ::1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 27 00:19:28.749144 2017] [ssl:warn] [pid 8] AH01909: ::1:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sat May 27 00:19:28.772239 2017] [ssl:warn] [pid 8] AH01906: ::1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 27 00:19:28.772253 2017] [ssl:warn] [pid 8] AH01909: ::1:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 27 00:19:28.773921 2017] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat May 27 00:19:28.773932 2017] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat May 27 00:21:55.693958 2017] [ssl:warn] [pid 9] AH01906: ::1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 27 00:21:55.694022 2017] [ssl:warn] [pid 9] AH01909: ::1:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sat May 27 00:21:55.718067 2017] [ssl:warn] [pid 9] AH01906: ::1:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 27 00:21:55.718082 2017] [ssl:warn] [pid 9] AH01909: ::1:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 27 00:21:55.719590 2017] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat May 27 00:21:55.719605 2017] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'

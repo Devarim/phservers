@@ -1,0 +1,117 @@
+[Sun May 21 02:05:47.815470 2017] [ssl:warn] [pid 15:tid 140064747956096] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:05:47.820466 2017] [ssl:warn] [pid 15:tid 140064747956096] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:05:47.820892 2017] [mpm_event:notice] [pid 15:tid 140064747956096] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:05:47.820902 2017] [core:notice] [pid 15:tid 140064747956096] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:08:50.380667 2017] [ssl:warn] [pid 16:tid 140227915593600] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:08:50.385688 2017] [ssl:warn] [pid 16:tid 140227915593600] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:08:50.386119 2017] [mpm_event:notice] [pid 16:tid 140227915593600] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:08:50.386129 2017] [core:notice] [pid 16:tid 140227915593600] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:10:09.955877 2017] [ssl:warn] [pid 16:tid 139720548034432] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:10:09.961120 2017] [ssl:warn] [pid 16:tid 139720548034432] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:10:09.961602 2017] [mpm_event:notice] [pid 16:tid 139720548034432] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:10:09.961614 2017] [core:notice] [pid 16:tid 139720548034432] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:12:08.314548 2017] [ssl:warn] [pid 15:tid 139732853942144] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:12:08.319779 2017] [ssl:warn] [pid 15:tid 139732853942144] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:12:08.320242 2017] [mpm_event:notice] [pid 15:tid 139732853942144] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:12:08.320272 2017] [core:notice] [pid 15:tid 139732853942144] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:14:33.689656 2017] [ssl:warn] [pid 16:tid 140709165086592] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:14:33.694792 2017] [ssl:warn] [pid 16:tid 140709165086592] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:14:33.695227 2017] [mpm_event:notice] [pid 16:tid 140709165086592] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:14:33.695237 2017] [core:notice] [pid 16:tid 140709165086592] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:19:23.624425 2017] [ssl:warn] [pid 16:tid 140142784767872] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:19:23.629836 2017] [ssl:warn] [pid 16:tid 140142784767872] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:19:23.630339 2017] [mpm_event:notice] [pid 16:tid 140142784767872] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:19:23.630350 2017] [core:notice] [pid 16:tid 140142784767872] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:21:38.525404 2017] [ssl:warn] [pid 15:tid 139850566616960] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:21:38.530910 2017] [ssl:warn] [pid 15:tid 139850566616960] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:21:38.531418 2017] [mpm_event:notice] [pid 15:tid 139850566616960] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:21:38.531439 2017] [core:notice] [pid 15:tid 139850566616960] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:26:12.354023 2017] [ssl:warn] [pid 15:tid 140626232387456] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:26:12.360113 2017] [ssl:warn] [pid 15:tid 140626232387456] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:26:12.360812 2017] [mpm_event:notice] [pid 15:tid 140626232387456] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:26:12.360825 2017] [core:notice] [pid 15:tid 140626232387456] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:28:20.181768 2017] [ssl:warn] [pid 15:tid 139905287456640] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:28:20.186687 2017] [ssl:warn] [pid 15:tid 139905287456640] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:28:20.187128 2017] [mpm_event:notice] [pid 15:tid 139905287456640] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:28:20.187138 2017] [core:notice] [pid 15:tid 139905287456640] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:31:21.151499 2017] [ssl:warn] [pid 16:tid 140223138097024] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:31:21.156941 2017] [ssl:warn] [pid 16:tid 140223138097024] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:31:21.157441 2017] [mpm_event:notice] [pid 16:tid 140223138097024] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:31:21.157451 2017] [core:notice] [pid 16:tid 140223138097024] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:32:59.259297 2017] [ssl:warn] [pid 15:tid 140462741993344] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:32:59.264164 2017] [ssl:warn] [pid 15:tid 140462741993344] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:32:59.264637 2017] [mpm_event:notice] [pid 15:tid 140462741993344] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:32:59.264648 2017] [core:notice] [pid 15:tid 140462741993344] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:34:38.463687 2017] [ssl:warn] [pid 16:tid 139677672781696] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:34:38.468508 2017] [ssl:warn] [pid 16:tid 139677672781696] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:34:38.468932 2017] [mpm_event:notice] [pid 16:tid 139677672781696] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:34:38.468942 2017] [core:notice] [pid 16:tid 139677672781696] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:42:40.090615 2017] [ssl:warn] [pid 16:tid 140224859436928] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:42:40.096257 2017] [ssl:warn] [pid 16:tid 140224859436928] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:42:40.096735 2017] [mpm_event:notice] [pid 16:tid 140224859436928] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:42:40.096745 2017] [core:notice] [pid 16:tid 140224859436928] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:43:26.128173 2017] [proxy:error] [pid 18:tid 140224742950656] [client 172.17.0.1:48604] AH00898: DNS lookup failure for: php71 returned by /php71
+[Sun May 21 02:44:10.849046 2017] [proxy:error] [pid 17:tid 140224541701888] [client 172.17.0.1:48672] AH00898: DNS lookup failure for: php71 returned by /php71
+[Sun May 21 02:44:12.947135 2017] [proxy:error] [pid 17:tid 140224524916480] [client 172.17.0.1:48676] AH00898: DNS lookup failure for: php71 returned by /php71
+[Sun May 21 02:44:23.536941 2017] [proxy:error] [pid 17:tid 140224508131072] [client 172.17.0.1:48680] AH00898: DNS lookup failure for: php71 returned by /php71
+[Sun May 21 02:44:31.325619 2017] [ssl:warn] [pid 15:tid 140152686393216] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:44:31.330972 2017] [ssl:warn] [pid 15:tid 140152686393216] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:44:31.331476 2017] [mpm_event:notice] [pid 15:tid 140152686393216] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:44:31.331486 2017] [core:notice] [pid 15:tid 140152686393216] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:44:33.837148 2017] [proxy:error] [pid 17:tid 140152586692352] [client 172.17.0.1:33122] AH00898: DNS lookup failure for: php71 returned by /php71
+[Sun May 21 02:44:40.037946 2017] [proxy:error] [pid 16:tid 140152586692352] [client 172.17.0.1:33118] AH00898: DNS lookup failure for: php71 returned by /php71
+[Sun May 21 02:44:47.810826 2017] [proxy:error] [pid 17:tid 140152578299648] [client 172.17.0.1:33122] AH00898: DNS lookup failure for: php71 returned by /php71
+[Sun May 21 02:45:43.159141 2017] [ssl:warn] [pid 16:tid 140689510356864] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:45:43.164177 2017] [ssl:warn] [pid 16:tid 140689510356864] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:45:43.164636 2017] [mpm_event:notice] [pid 16:tid 140689510356864] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 02:45:43.164658 2017] [core:notice] [pid 16:tid 140689510356864] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 23:36:48.882131 2017] [ssl:warn] [pid 16:tid 140394374498176] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 23:36:48.887069 2017] [ssl:warn] [pid 16:tid 140394374498176] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 23:36:48.887495 2017] [mpm_event:notice] [pid 16:tid 140394374498176] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 21 23:36:48.887506 2017] [core:notice] [pid 16:tid 140394374498176] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon May 22 00:04:14.565906 2017] [ssl:warn] [pid 16:tid 140668007753600] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Mon May 22 00:04:14.570737 2017] [ssl:warn] [pid 16:tid 140668007753600] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 22 00:04:14.571168 2017] [mpm_event:notice] [pid 16:tid 140668007753600] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon May 22 00:04:14.571178 2017] [core:notice] [pid 16:tid 140668007753600] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon May 22 00:05:24.299444 2017] [ssl:warn] [pid 16:tid 140589379147648] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Mon May 22 00:05:24.304792 2017] [ssl:warn] [pid 16:tid 140589379147648] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 22 00:05:24.305240 2017] [mpm_event:notice] [pid 16:tid 140589379147648] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon May 22 00:05:24.305260 2017] [core:notice] [pid 16:tid 140589379147648] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon May 22 01:30:00.955794 2017] [ssl:warn] [pid 16:tid 139658570717056] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Mon May 22 01:30:00.960747 2017] [ssl:warn] [pid 16:tid 139658570717056] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 22 01:30:00.961204 2017] [mpm_event:notice] [pid 16:tid 139658570717056] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon May 22 01:30:00.961219 2017] [core:notice] [pid 16:tid 139658570717056] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat May 27 00:20:02.066441 2017] [ssl:warn] [pid 15:tid 140685203351424] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sat May 27 00:20:02.071226 2017] [ssl:warn] [pid 15:tid 140685203351424] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 27 00:20:02.071642 2017] [mpm_event:notice] [pid 15:tid 140685203351424] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat May 27 00:20:02.071652 2017] [core:notice] [pid 15:tid 140685203351424] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat May 27 00:21:04.899975 2017] [ssl:warn] [pid 16:tid 140182263670656] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sat May 27 00:21:04.904912 2017] [ssl:warn] [pid 16:tid 140182263670656] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 27 00:21:04.905314 2017] [mpm_event:notice] [pid 16:tid 140182263670656] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat May 27 00:21:04.905322 2017] [core:notice] [pid 16:tid 140182263670656] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat May 27 00:21:57.199073 2017] [ssl:warn] [pid 15:tid 140097625978752] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sat May 27 00:21:57.204144 2017] [ssl:warn] [pid 15:tid 140097625978752] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 27 00:21:57.204559 2017] [mpm_event:notice] [pid 15:tid 140097625978752] AH00489: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat May 27 00:21:57.204569 2017] [core:notice] [pid 15:tid 140097625978752] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'

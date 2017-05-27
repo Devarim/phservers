@@ -1,0 +1,57 @@
+apache:
+  image: 'phserver:apache'
+  hostname: 'localhost'
+  links:
+    - 'php55:PHP55'
+    - 'php56:PHP56'
+    - 'php71:PHP71'
+  ports:
+    - '80:80'
+    - '443:443'
+  volumes:
+    - './apache/apache2/:/etc/apache2/'
+    - './apache/log/:/var/log/apache2/'
+    - './ssl/:/etc/apache2/ssl/'
+  tty: true
+
+php55:
+  image: 'phserver:php5.5'
+  hostname: 'localhost'
+  ports:
+    - '8081:80'
+    - '8441:443'
+  volumes:
+    - '${PATH_WWW_PHP55}:/var/www/'
+    - './php5.5/apache2/:/etc/apache2/'
+    - './ssl/:/etc/apache2/ssl/'
+    - './php5.5/php/:/etc/php/'
+    - './php5.5/log/:/var/log/apache2/'
+  tty: true
+
+php56:
+  image: 'phserver:php5.6'
+  hostname: 'localhost'
+  ports:
+    - '8082:80'
+    - '8442:443'
+  volumes:
+    - '${PATH_WWW_PHP56}:/var/www/html/'
+    - './php5.6/apache2/:/etc/apache2/'
+    - './ssl/:/etc/apache2/ssl/'
+    - './php5.6/php/:/etc/php/'
+    - './php5.6/log/:/var/log/apache2/'
+  tty: true
+
+php71:
+  image: 'phserver:php7.1'
+  hostname: 'localhost'
+  ports:
+    - '8083:80'
+    - '8443:443'
+  volumes:
+    - '${PATH_WWW_PHP71}:/var/www/html/'
+    - './php7.1/apache2/:/etc/apache2/'
+    - './ssl/:/etc/apache2/ssl/'
+    - './php7.1/php/:/etc/php/'
+    - './php7.1/log/:/var/log/apache2/'
+  tty: true

@@ -1,0 +1,175 @@
+[Sun May 21 02:04:47.371370 2017] [ssl:warn] [pid 10] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:04:47.371430 2017] [ssl:warn] [pid 10] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:04:47.387738 2017] [ssl:warn] [pid 10] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:04:47.387757 2017] [ssl:warn] [pid 10] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:04:47.389130 2017] [mpm_prefork:notice] [pid 10] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:04:47.389157 2017] [core:notice] [pid 10] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:05:46.632330 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:05:46.632381 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:05:46.647567 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:05:46.647588 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:05:46.649013 2017] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:05:46.649038 2017] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:08:49.381708 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:08:49.381762 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:08:49.397399 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:08:49.397428 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:08:49.398845 2017] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:08:49.398861 2017] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:12:07.139558 2017] [ssl:warn] [pid 10] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:12:07.139617 2017] [ssl:warn] [pid 10] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:12:07.155754 2017] [ssl:warn] [pid 10] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:12:07.155773 2017] [ssl:warn] [pid 10] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:12:07.157210 2017] [mpm_prefork:notice] [pid 10] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:12:07.157237 2017] [core:notice] [pid 10] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:14:32.229311 2017] [ssl:warn] [pid 8] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:14:32.229419 2017] [ssl:warn] [pid 8] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:14:32.245522 2017] [ssl:warn] [pid 8] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:14:32.245542 2017] [ssl:warn] [pid 8] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:14:32.246858 2017] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:14:32.246882 2017] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:19:22.250224 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:19:22.250281 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:19:22.265520 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:19:22.265538 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:19:22.266840 2017] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:19:22.266864 2017] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:21:36.598076 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:21:36.598131 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:21:36.613706 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:21:36.613725 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:21:36.615027 2017] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:21:36.615054 2017] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:26:11.009738 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:26:11.009841 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:26:11.025859 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:26:11.025880 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:26:11.027546 2017] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:26:11.027568 2017] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:28:18.924894 2017] [ssl:warn] [pid 8] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:28:18.924953 2017] [ssl:warn] [pid 8] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:28:18.940190 2017] [ssl:warn] [pid 8] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:28:18.940210 2017] [ssl:warn] [pid 8] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:28:18.941578 2017] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:28:18.941603 2017] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:31:20.224358 2017] [ssl:warn] [pid 10] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:31:20.224410 2017] [ssl:warn] [pid 10] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:31:20.241162 2017] [ssl:warn] [pid 10] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:31:20.241181 2017] [ssl:warn] [pid 10] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:31:20.242571 2017] [mpm_prefork:notice] [pid 10] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:31:20.242607 2017] [core:notice] [pid 10] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:32:58.080231 2017] [ssl:warn] [pid 8] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:32:58.080310 2017] [ssl:warn] [pid 8] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:32:58.095773 2017] [ssl:warn] [pid 8] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:32:58.095793 2017] [ssl:warn] [pid 8] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:32:58.097222 2017] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:32:58.097247 2017] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:34:36.463017 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:34:36.463064 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:34:36.478627 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:34:36.478646 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:34:36.479961 2017] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:34:36.479990 2017] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:39:42.737966 2017] [ssl:warn] [pid 11] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:39:42.738022 2017] [ssl:warn] [pid 11] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:39:42.753410 2017] [ssl:warn] [pid 11] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:39:42.753429 2017] [ssl:warn] [pid 11] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:39:42.754717 2017] [mpm_prefork:notice] [pid 11] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:39:42.754740 2017] [core:notice] [pid 11] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:40:20.008848 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:40:20.008897 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:40:20.024495 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:40:20.024515 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:40:20.025804 2017] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:40:20.025831 2017] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:42:38.745614 2017] [ssl:warn] [pid 8] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:42:38.745665 2017] [ssl:warn] [pid 8] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:42:38.761338 2017] [ssl:warn] [pid 8] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:42:38.761359 2017] [ssl:warn] [pid 8] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:42:38.762685 2017] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:42:38.762711 2017] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:44:29.512032 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:44:29.512082 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:44:29.527598 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:44:29.527628 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:44:29.529160 2017] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:44:29.529208 2017] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 02:45:41.795190 2017] [ssl:warn] [pid 10] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:45:41.795240 2017] [ssl:warn] [pid 10] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 02:45:41.810670 2017] [ssl:warn] [pid 10] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 02:45:41.810689 2017] [ssl:warn] [pid 10] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 02:45:41.812408 2017] [mpm_prefork:notice] [pid 10] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 02:45:41.812422 2017] [core:notice] [pid 10] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun May 21 23:36:46.463002 2017] [ssl:warn] [pid 8] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 23:36:46.463067 2017] [ssl:warn] [pid 8] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 21 23:36:46.569609 2017] [ssl:warn] [pid 8] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun May 21 23:36:46.569629 2017] [ssl:warn] [pid 8] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sun May 21 23:36:46.571049 2017] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sun May 21 23:36:46.571069 2017] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon May 22 00:04:12.541550 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 22 00:04:12.541606 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Mon May 22 00:04:12.556985 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 22 00:04:12.557004 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Mon May 22 00:04:12.558316 2017] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Mon May 22 00:04:12.558341 2017] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon May 22 00:05:23.122409 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 22 00:05:23.122459 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Mon May 22 00:05:23.137813 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 22 00:05:23.137833 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Mon May 22 00:05:23.139237 2017] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Mon May 22 00:05:23.139264 2017] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon May 22 01:29:59.527992 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 22 01:29:59.528040 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Mon May 22 01:29:59.632190 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 22 01:29:59.632219 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Mon May 22 01:29:59.634180 2017] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Mon May 22 01:29:59.634205 2017] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat May 27 00:19:28.818789 2017] [ssl:warn] [pid 8] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 27 00:19:28.818842 2017] [ssl:warn] [pid 8] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sat May 27 00:19:28.933930 2017] [ssl:warn] [pid 8] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 27 00:19:28.933945 2017] [ssl:warn] [pid 8] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sat May 27 00:19:28.935750 2017] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sat May 27 00:19:28.935766 2017] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat May 27 00:20:00.681454 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 27 00:20:00.681498 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sat May 27 00:20:00.696432 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 27 00:20:00.696446 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sat May 27 00:20:00.698406 2017] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sat May 27 00:20:00.698417 2017] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat May 27 00:21:03.852687 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 27 00:21:03.852734 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sat May 27 00:21:03.867861 2017] [ssl:warn] [pid 9] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 27 00:21:03.867875 2017] [ssl:warn] [pid 9] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sat May 27 00:21:03.869713 2017] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sat May 27 00:21:03.869725 2017] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat May 27 00:21:55.728569 2017] [ssl:warn] [pid 8] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 27 00:21:55.728642 2017] [ssl:warn] [pid 8] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sat May 27 00:21:55.743924 2017] [ssl:warn] [pid 8] AH01906: RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 27 00:21:55.743939 2017] [ssl:warn] [pid 8] AH01909: RSA certificate configured for ::1:443 does NOT include an ID which matches the server name
+[Sat May 27 00:21:55.745292 2017] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 OpenSSL/1.0.1f configured -- resuming normal operations
+[Sat May 27 00:21:55.745305 2017] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'

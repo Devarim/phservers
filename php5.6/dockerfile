@@ -1,0 +1,31 @@
+FROM ubuntu:16.04
+
+ARG http_proxy
+ARG https_proxy
+ENV http_proxy=$http_proxy
+ENV https_proxy=$https_proxy
+ENV ftp_proxy=$http_proxy
+
+ENV DEBIAN_FRONTEND=noninteractive
+RUN apt-get update
+RUN apt-get -y install python-software-properties
+RUN apt-get -y install software-properties-common
+RUN apt-get -y install apt-utils
+RUN touch /etc/apt/sources.list.d/ondrej-php.list
+RUN echo "deb http://ppa.launchpad.net/ondrej/php/ubuntu xenial main" >> /etc/apt/sources.list.d/ondrej-php.list
+RUN echo "# deb-src http://ppa.launchpad.net/ondrej/php/ubuntu xenial main" >> /etc/apt/sources.list.d/ondrej-php.list
+RUN apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 4F4EA0AAE5267A6C
+RUN apt-get update
+RUN apt-get upgrade -y
+RUN apt-get -y install apache2 php5.6
+RUN apt-get -y install php5.6-gd php5.6-json php5.6-xml php5.6-mbstring php5.6-mcrypt php5.6-mysql php5.6-ldap
+RUN a2enmod ssl rewrite
+
+ENV APACHE_RUN_USER www-data
+ENV APACHE_RUN_GROUP www-data
+ENV APACHE_LOG_DIR /var/log/apache2
+ENV APACHE_LOCK_DIR /var/lock/apache2
+ENV APACHE_PID_FILE /var/run/apache2.pid
+
+CMD /usr/sbin/apache2ctl -D FOREGROUND
+EXPOSE 80 443

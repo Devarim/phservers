@@ -1,0 +1,5 @@
+172.17.0.1 - - [21/May/2017:02:35:08 +0000] "GET / HTTP/1.1" 200 2292 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0"
+172.17.0.1 - - [21/May/2017:02:35:08 +0000] "GET /icons/blank.gif HTTP/1.1" 200 489 "https://localhost:8443/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0"
+172.17.0.1 - - [21/May/2017:02:35:08 +0000] "GET /favicon.ico HTTP/1.1" 404 560 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0"
+172.17.0.1 - - [21/May/2017:02:35:08 +0000] "GET /favicon.ico HTTP/1.1" 404 560 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0"
+172.17.0.5 - - [21/May/2017:02:45:45 +0000] "GET / HTTP/1.1" 200 27202 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0"
