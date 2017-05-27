@@ -1,4 +1,5 @@
-#Introdução:
+# Introdução:
+
 Script para instalação e configuração de um servidor apache com versões versões do PHP 5.5, 5.6 e 7.1. O servidor é construído através de Dockers e das imagens ubuntu 16:04 e 14:04.
 
 > O ubuntu foi utilizado para aproximar o ambiente de produção ao de desenvolvimento. 
@@ -9,12 +10,12 @@ Script para instalação e configuração de um servidor apache com versões ver
 - docker-compose
 - sudo
 
-###Ubuntu
+### Ubuntu
 Para instalar as dependências basta digitar o seguinte comando:
 
 `sudo apt install openssl docker docker-compose`
 
-#Primeiros passos
+# Primeiros passos
 Primeiro é necessário gerar o certificado através do script *gerarCertificado.sh*
 
 `sh gerarCertificado.sh`
@@ -26,11 +27,11 @@ Para iniciar os serviços:
 `sudo sh up.sh`
 
 
-#Funcionamento
+# Funcionamento
 Existem 4 servidores apache, três são para as versões do php: 5.5, 5.6 e 7.1. Outro servidor apache configurado na porta 80 e 443 do sistema hospedeiro. Este servidor possibilita a comunicação com os servidores de cada versão através do módulo proxy do apache.
 Os servidores php 
 
-#Configurações
+# Configurações
 
 ## Diretório www dos sistemas
 O diretório www utilizado para armazenar os sistemas encontra-se em:
@@ -67,15 +68,15 @@ Em */apache/apache2/sites-enabled/000-default.conf* um sistema pode ser adiciona
 `ProxyPass /sistemaA ${HOSTPHP55_SSL}/sistemaA`
 `ProxyPassReverse /sistemaA ${HOSTPHP55_SSL}/sistemaA`
 
-##Variáveis
+## Variáveis
 
-###Variáveis de ambiente
+### Variáveis de ambiente
 /install.sh
 > \$http_proxy = Se o proxy necessita usuário e senha. A mesma deve ser definida
 
 
 
-###Variáveis de configuração
+### Variáveis de configuração
 /apache/apache2/envvars
 
 > \$HOSTPHP55 = Host para o docker localizar a versão do php internamente
